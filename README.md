@@ -59,7 +59,8 @@
 <br>
 
 - Frontend
-1. 추가 예정
+1. Bootstrap
+2. thymeleaf
 
 <br>
 
@@ -82,7 +83,7 @@
 <br>
 
 - Frontend
-1. 추가 예정
+1. spring thymeleaf
 
 <br>
 
