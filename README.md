@@ -35,8 +35,8 @@
 <br>
 
 ## 📣 아키텍쳐 및 ERD
-![아키텍쳐]()
-![ERD]()
+<img width="950" alt="스크린샷 2024-08-26 오후 1 56 20" src="https://github.com/user-attachments/assets/40ceeec4-7ba4-4da4-8697-b3b0b6c4d6fb">
+<img width="794" alt="스크린샷 2024-08-26 오후 2 32 22" src="https://github.com/user-attachments/assets/d2858f63-10f6-4916-aa00-9c3c1be12906">
 
 <br>
 
