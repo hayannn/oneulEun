@@ -42,6 +42,7 @@
 
 ## 📣 API 명세
 - [oneulEun API 명세서](https://hayanlee.notion.site/oneulEun-API-624a1f93d0a6488a881af9788b3e134a?pvs=4)
+  - Request&Response 정보는 링크 내 각 Description 제목 클릭 시 확인 가능
   - 관리자 API의 경우, 추후 추가 예정
     <img width="1154" alt="스크린샷 2024-08-27 오후 3 30 30" src="https://github.com/user-attachments/assets/a072b4df-06ed-4d3c-b73f-d97bd2d96854">
     <img width="1110" alt="스크린샷 2024-08-27 오후 3 29 41" src="https://github.com/user-attachments/assets/0723ddca-de1c-4b59-a05a-ca5ff38d126d">
