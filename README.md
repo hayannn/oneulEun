@@ -40,6 +40,18 @@
 
 <br>
 
+## 📣 API 명세
+- [oneulEun API 명세서](https://hayanlee.notion.site/oneulEun-API-624a1f93d0a6488a881af9788b3e134a?pvs=4)
+  - 관리자 API의 경우, 추후 추가 예정
+    <img width="1154" alt="스크린샷 2024-08-27 오후 3 30 30" src="https://github.com/user-attachments/assets/a072b4df-06ed-4d3c-b73f-d97bd2d96854">
+    <img width="1110" alt="스크린샷 2024-08-27 오후 3 29 41" src="https://github.com/user-attachments/assets/0723ddca-de1c-4b59-a05a-ca5ff38d126d">
+    <img width="1100" alt="스크린샷 2024-08-27 오후 3 29 58" src="https://github.com/user-attachments/assets/3b39d694-6f31-446e-a88b-20bcd3d33e48">
+    <img width="1182" alt="스크린샷 2024-08-27 오후 3 30 09" src="https://github.com/user-attachments/assets/ac431e5b-6ba3-4281-af66-0ccc4b66d394">
+    <img width="1142" alt="스크린샷 2024-08-27 오후 3 30 20" src="https://github.com/user-attachments/assets/f4f0d411-d5aa-4824-bb6b-c16313f62dbf">
+    <img width="1117" alt="스크린샷 2024-08-27 오후 3 30 47" src="https://github.com/user-attachments/assets/d7ce7720-284e-48d9-91bc-8f6cdfe52c52">
+  
+<br>
+
 ## 📣 기술스택
 
 - Backend
