@@ -6,6 +6,7 @@
 ![이하얀](https://github.com/user-attachments/assets/18c1ba87-523d-45a2-a4a1-1e76056b2d23)  |
 
 <br>
+<br>
 
 ## 📣 개요
 - Online Judge 사이트 제작 Side Project
@@ -13,6 +14,7 @@
 
 ---
 
+<br>
 <br>
 
 ## 📣 주요 기능
@@ -26,6 +28,7 @@
 | 관리자 | 강의 및 사용자 관련 전반적인 사이트 관리 권한을 통해 사이트가 원활히 운영될 수 있도록 하는 관리자 기능을 제공합니다. |
 
 <br>
+<br>
 
 ## 📣 최종 개발 목표
 - 백엔드 중심 온라인 저지 플랫폼 API 개발 완료
@@ -33,12 +36,14 @@
 - 동영상 스트리밍 + 실시간 스트리밍 서비스 정상 작동
 
 <br>
+<br>
 
 ## 📣 전체 아키텍쳐 및 ERD
 <img width="950" alt="스크린샷 2024-08-26 오후 1 56 20" src="https://github.com/user-attachments/assets/40ceeec4-7ba4-4da4-8697-b3b0b6c4d6fb">
 <img width="794" alt="스크린샷 2024-08-26 오후 2 32 22" src="https://github.com/user-attachments/assets/d2858f63-10f6-4916-aa00-9c3c1be12906">
 
 
+<br>
 <br>
 
 ## 📣 온라인 코딩 및 채점 서버 아키텍쳐 및 알고리즘
@@ -55,6 +60,7 @@
 <img width="1010" alt="스크린샷 2024-08-29 오후 10 24 38" src="https://github.com/user-attachments/assets/9a9bd60c-d7c3-485b-8be6-acd25c1de100">
 
 <br>
+<br>
 
 ## 📣 API 명세
 - [oneulEun API 명세서](https://hayanlee.notion.site/oneulEun-API-624a1f93d0a6488a881af9788b3e134a?pvs=4)
@@ -67,6 +73,7 @@
     <img width="1142" alt="스크린샷 2024-08-27 오후 3 30 20" src="https://github.com/user-attachments/assets/f4f0d411-d5aa-4824-bb6b-c16313f62dbf">
     <img width="1117" alt="스크린샷 2024-08-27 오후 3 30 47" src="https://github.com/user-attachments/assets/d7ce7720-284e-48d9-91bc-8f6cdfe52c52">
   
+<br>
 <br>
 
 ## 📣 기술스택
@@ -92,6 +99,7 @@
 2. thymeleaf
 
 <br>
+<br>
 
 ## 📣 라이브러리
 
@@ -115,8 +123,8 @@
 1. spring thymeleaf
 
 <br>
+<br>
 
----
 
 ## 📣 프로젝트 구조
 ```
@@ -214,8 +222,8 @@
     └── 🗂 resources
         └── 📑 application.yml      
 ```
----
 
+<br>
 <br>
 
 
