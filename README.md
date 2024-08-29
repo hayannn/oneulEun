@@ -34,9 +34,25 @@
 
 <br>
 
-## 📣 아키텍쳐 및 ERD
+## 📣 전체 아키텍쳐 및 ERD
 <img width="950" alt="스크린샷 2024-08-26 오후 1 56 20" src="https://github.com/user-attachments/assets/40ceeec4-7ba4-4da4-8697-b3b0b6c4d6fb">
 <img width="794" alt="스크린샷 2024-08-26 오후 2 32 22" src="https://github.com/user-attachments/assets/d2858f63-10f6-4916-aa00-9c3c1be12906">
+
+
+<br>
+
+## 📣 온라인 코딩 및 채점 서버 아키텍쳐 및 알고리즘
+> 참고 자료
+- [백준 온라인 저지 기술 블로그 - 샌드박스](https://www.slideshare.net/slideshow/ss-51001155/51001155)
+- [BOJ Help Info](https://help.acmicpc.net/judge/info)
+
+> 아키텍쳐
+
+<img width="760" alt="스크린샷 2024-08-29 오후 10 12 32" src="https://github.com/user-attachments/assets/3660b1cd-3e2b-4c9a-b938-b735cd2f767b">
+
+> 알고리즘
+
+<img width="1010" alt="스크린샷 2024-08-29 오후 10 24 38" src="https://github.com/user-attachments/assets/9a9bd60c-d7c3-485b-8be6-acd25c1de100">
 
 <br>
 
